@@ -1,0 +1,65 @@
+{
+    "Data": [
+      {
+        "TestCaseName": "LoginTest",
+        "Status": "Pass",
+        "ExecutionTime": 150,
+        "Timestamp": "2023-11-08T09:00:00Z"
+      },
+      {
+        "TestCaseName": "LogoutTest",
+        "Status": "Fail",
+        "ExecutionTime": 200,
+        "Timestamp": "2023-11-08T09:01:30Z"
+      },
+      {
+        "TestCaseName": "PasswordChangeTest",
+        "Status": "Pass",
+        "ExecutionTime": 180,
+        "Timestamp": "2023-11-08T09:03:00Z"
+      },
+      {
+        "TestCaseName": "InvalidLoginTest",
+        "Status": "Pass",
+        "ExecutionTime": 90,
+        "Timestamp": "2023-11-08T09:04:30Z"
+      },
+      {
+        "TestCaseName": "DataExportTest",
+        "Status": "Fail",
+        "ExecutionTime": 300,
+        "Timestamp": "2023-11-08T09:06:00Z"
+      },
+      {
+        "TestCaseName": "ProfileUpdateTest",
+        "Status": "Pass",
+        "ExecutionTime": 240,
+        "Timestamp": "2023-11-08T09:07:30Z"
+      },
+      {
+        "TestCaseName": "EmailNotificationTest",
+        "Status": "Fail",
+        "ExecutionTime": 320,
+        "Timestamp": "2023-11-08T09:09:00Z"
+      },
+      {
+        "TestCaseName": "ReportGenerationTest",
+        "Status": "Pass",
+        "ExecutionTime": 360,
+        "Timestamp": "2023-11-08T09:10:30Z"
+      },
+      {
+        "TestCaseName": "UserDeactivationTest",
+        "Status": "Pass",
+        "ExecutionTime": 210,
+        "Timestamp": "2023-11-08T09:12:00Z"
+      },
+      {
+        "TestCaseName": "PermissionCheckTest",
+        "Status": "Fail",
+        "ExecutionTime": 165,
+        "Timestamp": "2023-11-08T09:13:30Z"
+      }
+    ]
+  }
+  
